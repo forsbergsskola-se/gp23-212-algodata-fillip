@@ -1,0 +1,12 @@
+﻿  test.cpp
+L:\GithubProject\Collections\Algorithms-And-DataStructures\GoogleTest\test.cpp(31,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+L:\GithubProject\Collections\Algorithms-And-DataStructures\TurboCollection\TurboCollection.h(42,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/test.cpp')
+  L:\GithubProject\Collections\Algorithms-And-DataStructures\TurboCollection\TurboCollection.h(42,14):
+  the template instantiation context (the oldest one first) is
+  	L:\GithubProject\Collections\Algorithms-And-DataStructures\GoogleTest\test.cpp(15,5):
+  	see reference to function template instantiation 'void bubbleSort<int>(std::vector<int,std::allocator<int>> &)' being compiled
+  
+  GoogleTest.vcxproj -> L:\GithubProject\Collections\Algorithms-And-DataStructures\x64\Debug\GoogleTest.exe
